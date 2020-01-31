@@ -79,6 +79,7 @@ print (scottsvariable)
 # Challenge 1
 
 Write a program that
--Asks for the first name and then a surname
--Prints both the first name and then the last name
--Prints them both on the same line
+
+- Asks for the first name and then a surname
+- Prints both the first name and then the last name
+- Prints them both on the same line
