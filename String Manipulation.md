@@ -71,9 +71,33 @@ print ("hello World")
 
 If you want to print a variable, the variable needs to not have quotation marks around it
 
+### Example
+
 ```python
 scottsvariable = "Hello World"
 print (scottsvariable)
+```
+
+you can also put variables together by adding using a comma
+
+### Example
+
+```python
+variableone = "adding"
+varibaletwo = "strings"
+print (variableone, variabletwo)
+
+```
+
+or by defining it to a seperate variable
+
+### Example
+
+```python
+variableone = "adding"
+varibaletwo = "strings"
+fullvariable = variableone + variabletewo
+print (fullvariable)
 ```
 
 # Challenge 1
