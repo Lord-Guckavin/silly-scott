@@ -1,7 +1,9 @@
-#String Manipulation
+# String Manipulation
+
 In this chapter we will cover printing, inputs, variables and string manipulation
 
-##String
+## String
+
 A string is a group of letters and numbers which cant be used for mathematical uses
 ###Example
 
@@ -10,18 +12,22 @@ A string is a group of letters and numbers which cant be used for mathematical u
 "120"
 ```
 
-##Integer
+## Integer
+
 An integer is a number that you can perform maths on and can only be whole/real numbers
-###Example
+
+### Example
 
 ```python
 2
 54
 ```
 
-##Float
+## Float
+
 Like an integer, it is a number that you can preform math on but it has to have a decimal (Warning, very small numbers can make this go wacky)
-###Example
+
+### Example
 
 ```python
 20.0
@@ -29,30 +35,35 @@ Like an integer, it is a number that you can preform math on but it has to have 
 53.2143
 ```
 
-##Boolean
+## Boolean
+
 A boolean is a true of false statement
-###Example
+
+### Example
 
 ```python
 True
 False
 ```
 
-##Variables
+## Variables
+
 Variables are a way of storing a data type such as a string, int, float etc. These are important as in most programs you will want to save some sort of data
 
-###Example
+### Example
 
 ```python
 variable = 3.2 #float
 variabletwo = 10 #int
 variablethree = "Variable" #string
-variablefour = True #boolean
+informationabouttheITcourse = False #boolean
 ```
 
-##Print Function
+## Print Function
+
 The print function prints information to the black box known as the terminal, it can print all data types
-###Example
+
+### Example
 
 ```python
 print ("hello World")
@@ -65,7 +76,8 @@ scottsvariable = "Hello World"
 print (scottsvariable)
 ```
 
-#Chalenge 1
+# Challenge 1
+
 Write a program that
 -Asks for the first name and then a surname
 -Prints both the first name and then the last name
